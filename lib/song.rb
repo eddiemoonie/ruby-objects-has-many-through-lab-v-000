@@ -8,10 +8,10 @@ class Song
   end
 
   def genre
-    genre.song = self
+    song.genre = self
   end
 
   def artist
-    artist.song = self
+    song.artist = self
   end
 end
