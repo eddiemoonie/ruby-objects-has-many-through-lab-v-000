@@ -12,6 +12,5 @@ class Patient
     patient.appointment = self
   end
 
-  def doctors
 
 end
